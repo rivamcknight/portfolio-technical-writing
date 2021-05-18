@@ -5,3 +5,4 @@ Includes the following Documents
 - [Recommendation Report](McKnightRecommendationReport.pdf)
 - [Slide Presentation](McKnightSlidePresentation.pdf)
 - [Step-by-Step Procedure](McKnightStepByStepProcedure.pdf)
+- [Blog](McKnightBlog.pdf)
