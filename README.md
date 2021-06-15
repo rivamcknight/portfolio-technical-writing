@@ -6,4 +6,4 @@ Includes the following Documents
 - [Slide Presentation](McKnightSlidePresentation.pdf)
 - [Step-by-Step Procedure](McKnightStepByStepProcedure.pdf)
 - [Blog](McKnightBlog.pdf)
-- [API Documentation](https://github.com/rivamcknight/riddles-api#project-purpose)
+- [API Documentation](https://github.com/rivamcknight/riddles-api#introduction)
