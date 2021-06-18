@@ -1,9 +1,11 @@
 # The Technical Writing Portfolio of Riva McKnight
 
-Includes the following Documents
-- [Research Proposal](McKnightResearchProposal.pdf)
-- [Recommendation Report](McKnightRecommendationReport.pdf)
-- [Slide Presentation](McKnightSlidePresentation.pdf)
-- [Step-by-Step Procedure](McKnightStepByStepProcedure.pdf)
-- [Blog](McKnightBlog.pdf)
-- [API Documentation](https://github.com/rivamcknight/riddles-api#introduction)
+Please visit my [Technical Writing Portfolio](https://rivamcknight.github.io).
+
+If you have any issues with the site, all the documents can be downloaded and viewed as PDFs via this repo.
+- [Research Proposal PDF](McKnightResearchProposal.pdf)
+- [Recommendation Report PDF](McKnightRecommendationReport.pdf)
+- [Slide Presentation PDF](McKnightSlidePresentation.pdf)
+- [Step-by-Step Procedure PDF](McKnightStepByStepProcedure.pdf)
+- [Blog PDF](McKnightBlog.pdf) | Also available [Online](https://rivamcknight.github.io/blog.html)
+- [API Documentation PDF]() [Coming Soon] | Also available [Online](https://github.com/rivamcknight/riddles-api#introduction)
