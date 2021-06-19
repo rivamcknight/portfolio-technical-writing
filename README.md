@@ -8,4 +8,4 @@ If you have any issues with the site, all the documents can be downloaded and vi
 - [Slide Presentation PDF](McKnightSlidePresentation.pdf)
 - [Step-by-Step Procedure PDF](McKnightStepByStepProcedure.pdf)
 - [Blog PDF](McKnightBlog.pdf) | Also available [Online](https://rivamcknight.github.io/blog.html)
-- [API Documentation PDF]() [Coming Soon] | Also available [Online](https://github.com/rivamcknight/riddles-api#introduction)
+- [API Documentation PDF](McKnightRiddlesAPIDocumentation.pdf) | Also available [Online](https://github.com/rivamcknight/riddles-api#introduction)
